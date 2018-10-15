@@ -1,7 +1,5 @@
 ## Installation Notes
 
-1.- Dependencies: 
-
 For this project, there are 2 important dependencies needed, Composer and Laravel (here's a webpage tutorial: https://laravel.com/docs/4.2).
 
 After that, you need to install XAMPP or an Apache distribution (with PHP >= 5.4).
