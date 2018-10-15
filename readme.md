@@ -17,6 +17,8 @@ Import the file "discography.sql".
 
 ## Running
 
+Run Xampp and enable Apache and MySQL.
+
 Go to localhost/project/public on your browser.
 
 
